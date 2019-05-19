@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="activeState">#f940ff</color>
+    <color name="inactiveState">@android:color/white</color>
+    <color name="myStatusBarColor">#181616</color>
+</resources>

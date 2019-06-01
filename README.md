@@ -5,5 +5,5 @@ This project is still in process of developing. I plan to implement deleting son
 
 ## Screenshots
 
-(https://github.com/IvanZunabovic/MusicPlayer/blob/master/app/src/main/res/drawable/screenshot01.jpg)
-(https://github.com/IvanZunabovic/MusicPlayer/blob/master/app/src/main/res/drawable/screenshot02.jpg)
+![alt text](https://github.com/IvanZunabovic/MusicPlayer/blob/master/app/src/main/res/drawable/screenshot01.jpg)
+![alt text](https://github.com/IvanZunabovic/MusicPlayer/blob/master/app/src/main/res/drawable/screenshot02.jpg)
